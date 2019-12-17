@@ -12,6 +12,10 @@
 
 Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yuchengkai.cn/home/)上阅读。
 
+### 从零开始造轮子
+
+- [你不知道的高性能实现深拷贝的方式](https://github.com/KieSun/FE-advance-road/blob/master/wheels/deepClone/index.md)
+
 ### Vue 3 源码解析
 
 - [Vue 3 源码注释](https://github.com/KieSun/vue-interpretation)
@@ -73,4 +77,4 @@ Github 的阅读体验稍显逊色，你可以选择在[我的网站](https://yu
 觉得内容有帮助可以关注下我的公众号 「前端真好玩」或者加入前端进阶群一起成长。
 
 ![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034138.jpg)
-![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191216230743.png)
